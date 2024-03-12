@@ -1,0 +1,9 @@
+.heading {
+    background-color: azure;
+    width: 240px;
+    text-align: center;
+    border: solid wheat;
+    padding-right: 300px;
+    padding-left: 300px;
+    margin-left: 500px;
+}
